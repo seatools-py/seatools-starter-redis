@@ -18,7 +18,7 @@ seatools:
     port: 6379
     user:
     password: 123456
-    db: 0
+    database: 0
     # redis.Redis.from_url的额外参数
     config:
       # 示例:
