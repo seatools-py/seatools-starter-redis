@@ -1,0 +1,4 @@
+seatools>=1.0.21
+loguru
+redis
+
