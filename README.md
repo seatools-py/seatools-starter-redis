@@ -16,7 +16,6 @@ seatools:
   redis:
     host: localhost
     port: 6379
-    user:
     password: 123456
     database: 0
     # redis.Redis.from_url的额外参数
